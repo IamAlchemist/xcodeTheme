@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Menu Key Bindings</key>
+	<dict>
+		<key>Key Bindings</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>redo:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.Redo</string>
+				<key>Group</key>
+				<string>Edit Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^_</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Redo</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>refactorRename:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.Refactor.Rename</string>
+				<key>Group</key>
+				<string>Edit Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~r</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Refactor</string>
+				<key>Title</key>
+				<string>Rename…</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>toggleToolbarShown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ToggleToolbar</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Toolbar</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>complete:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceCodeComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~\ </string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Completions</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>toggleComments:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceCodeComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~;</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Comment Selection</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>toggleStructureArea:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.InterfaceBuilderKit.CmdDefinition.ToggleStructureArea</string>
+				<key>CommandID</key>
+				<string>Xcode.InterfaceBuilderKit.CmdDefinition.ToggleStructureArea</string>
+				<key>Group</key>
+				<string>Editor Menu for Interface Builder - Storyboard</string>
+				<key>GroupID</key>
+				<string>Xcode.InterfaceBuilderKit.DocumentEditorMenu</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>$@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Document Outline</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>complete:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>Group</key>
+				<string>Xcode.IDESourceEditor.MenuDefinition.Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~\ </string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Completions</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>toggleComments:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>Group</key>
+				<string>Xcode.IDESourceEditor.MenuDefinition.Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~;</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Comment Selection</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>complete:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~\ </string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Completions</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>commentAndUncommentCurrentLines:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~;</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Comment Selection</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>complete:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ShowHideCompletions</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceCodeComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~\ </string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Completions</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>commentAndUncommentCurrentLines:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>CommandID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.CommentUncomment</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceCodeComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>~;</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Comment Selection</string>
+			</dict>
+		</array>
+		<key>Version</key>
+		<integer>3</integer>
+	</dict>
+	<key>Text Key Bindings</key>
+	<dict>
+		<key>Key Bindings</key>
+		<dict>
+			<key></key>
+			<array>
+				<string>selectToMark:</string>
+				<string>swapWithMark:</string>
+			</array>
+			<key></key>
+			<string>insertNewline:</string>
+			<key>
+</key>
+			<string>insertNewline:</string>
+			<key></key>
+			<string>insertNewline:</string>
+			<key>^-</key>
+			<string>undo:</string>
+			<key>^j</key>
+			<string>insertNewline:</string>
+			<key>^v</key>
+			<string>scrollPageDown:</string>
+			<key>^w</key>
+			<string>deleteWordBackward:</string>
+			<key>^~</key>
+			<string>deleteWordBackward:</string>
+			<key>^</key>
+			<string>scrollPageUp:</string>
+			<key>^</key>
+			<string>scrollPageDown:</string>
+			<key>~</key>
+			<string>deleteWordBackward:</string>
+			<key>~&lt;</key>
+			<string>scrollToBeginningOfDocument:</string>
+			<key>~&gt;</key>
+			<string>scrollToEndOfDocument:</string>
+			<key>~b</key>
+			<string>moveWordLeft:</string>
+			<key>~v</key>
+			<string>scrollPageUp:</string>
+			<key>~w</key>
+			<string>deleteToMark:</string>
+			<key>~</key>
+			<string>deleteWordBackward:</string>
+			<key>~</key>
+			<string>moveWordLeft:</string>
+			<key>~</key>
+			<string>pageDown:</string>
+			<key></key>
+			<string>scrollToBeginningOfDocument:</string>
+			<key></key>
+			<string>scrollToEndOfDocument:</string>
+			<key></key>
+			<string>scrollPageUp:</string>
+			<key></key>
+			<string>scrollPageDown:</string>
+		</dict>
+		<key>Version</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>
