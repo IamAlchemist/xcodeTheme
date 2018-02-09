@@ -91,52 +91,16 @@
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
-		<key>xcode.syntax.attribute</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.character</key>
-		<string>Consolas - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Consolas - 12.0</string>
+		<string>PanicSans-Italic - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Consolas - 12.0</string>
+		<string>PanicSans-Italic - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.class</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.class.system</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.constant</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.function</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.function.system</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.macro</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.type</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.type.system</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.variable</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Consolas - 12.0</string>
+		<string>PanicSans-Italic - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.number</key>
-		<string>Consolas - 12.0</string>
+		<string>PanicSans-Bold - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.preprocessor</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.string</key>
-		<string>Consolas - 12.0</string>
-		<key>xcode.syntax.url</key>
-		<string>Consolas - 12.0</string>
+		<string>PanicSans - 11.0</string>
 	</dict>
 </dict>
 </plist>
